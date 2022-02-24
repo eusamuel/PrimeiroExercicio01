@@ -1,0 +1,15 @@
+C:\Users\samue\Documents\Estudos\CursoUdemyC#\Exercícios\ResoluçõesExercícios\PrimExerc01\PrimExerc01\obj\Debug\net6.0\PrimExerc01.csproj.AssemblyReference.cache
+C:\Users\samue\Documents\Estudos\CursoUdemyC#\Exercícios\ResoluçõesExercícios\PrimExerc01\PrimExerc01\obj\Debug\net6.0\PrimExerc01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\Estudos\CursoUdemyC#\Exercícios\ResoluçõesExercícios\PrimExerc01\PrimExerc01\obj\Debug\net6.0\PrimExerc01.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\Estudos\CursoUdemyC#\Exercícios\ResoluçõesExercícios\PrimExerc01\PrimExerc01\obj\Debug\net6.0\PrimExerc01.AssemblyInfo.cs
+C:\Users\samue\Documents\Estudos\CursoUdemyC#\Exercícios\ResoluçõesExercícios\PrimExerc01\PrimExerc01\obj\Debug\net6.0\PrimExerc01.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\Estudos\CursoUdemyC#\Exercícios\ResoluçõesExercícios\PrimExerc01\PrimExerc01\bin\Debug\net6.0\PrimExerc01.exe
+C:\Users\samue\Documents\Estudos\CursoUdemyC#\Exercícios\ResoluçõesExercícios\PrimExerc01\PrimExerc01\bin\Debug\net6.0\PrimExerc01.deps.json
+C:\Users\samue\Documents\Estudos\CursoUdemyC#\Exercícios\ResoluçõesExercícios\PrimExerc01\PrimExerc01\bin\Debug\net6.0\PrimExerc01.runtimeconfig.json
+C:\Users\samue\Documents\Estudos\CursoUdemyC#\Exercícios\ResoluçõesExercícios\PrimExerc01\PrimExerc01\bin\Debug\net6.0\PrimExerc01.dll
+C:\Users\samue\Documents\Estudos\CursoUdemyC#\Exercícios\ResoluçõesExercícios\PrimExerc01\PrimExerc01\bin\Debug\net6.0\PrimExerc01.pdb
+C:\Users\samue\Documents\Estudos\CursoUdemyC#\Exercícios\ResoluçõesExercícios\PrimExerc01\PrimExerc01\obj\Debug\net6.0\PrimExerc01.dll
+C:\Users\samue\Documents\Estudos\CursoUdemyC#\Exercícios\ResoluçõesExercícios\PrimExerc01\PrimExerc01\obj\Debug\net6.0\refint\PrimExerc01.dll
+C:\Users\samue\Documents\Estudos\CursoUdemyC#\Exercícios\ResoluçõesExercícios\PrimExerc01\PrimExerc01\obj\Debug\net6.0\PrimExerc01.pdb
+C:\Users\samue\Documents\Estudos\CursoUdemyC#\Exercícios\ResoluçõesExercícios\PrimExerc01\PrimExerc01\obj\Debug\net6.0\PrimExerc01.genruntimeconfig.cache
+C:\Users\samue\Documents\Estudos\CursoUdemyC#\Exercícios\ResoluçõesExercícios\PrimExerc01\PrimExerc01\obj\Debug\net6.0\ref\PrimExerc01.dll
